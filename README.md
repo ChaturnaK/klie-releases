@@ -12,6 +12,6 @@ and pick:
 Klie updates itself from here, so you only download it once.
 
 Klie Free adds the Klie watermark to videos. Klie Pro has no watermark: $20 for one year, on up to
-2 computers. Paste your licence key in Klie → Settings → Licence.
+2 computers. Paste your licence key in Klie → Settings → General.
 
 This repository holds only the installers; it has no code.
